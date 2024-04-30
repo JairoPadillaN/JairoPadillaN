@@ -112,12 +112,8 @@
   
   <a href="https://www.blender.org" target="_blank">
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="50px">    
-  </a>
+  </a><br>
   
-  <a href="" target="_blank">
-      <img src="" alt="" width="50px">    
-  </a>
-  
-  <a href="" target="_blank">
-      <img src="" alt="" width="50px">    
-  </a>
+  # 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoPadillaN&show_icons=true&title_color=078df2&locale=en&layout=compact&hide=html)](https://github.com/JairoPadillaN)
