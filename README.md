@@ -1,4 +1,12 @@
-### Hi there 👋
+# <center> Hello everybody :metal:, I'm Jairo </center>
+### Another lover  of programming and technology.
++ 🌟 At the moment i try to improive my english skills.
++ ✨ I love learning new things about computer science and programming languages (Android & iOS development).
++ 🌱 I'm currently learning Python.
++ 💬 Ask me about ***PHP***, ***Javascript***, ***CSS***.
++ ⚡ Fun fact: ...
+### Connect with me:
+
 
 <!--
 **JairoPadillaN/JairoPadillaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
